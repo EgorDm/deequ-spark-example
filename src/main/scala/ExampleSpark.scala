@@ -164,9 +164,9 @@ object ExampleSpark {
       sys.exit(1)
     }
 
-    // Write the result to S3 in Parquet format
+    // Write the result in Parquet format
     validDf.write
-      .mode("overwrite")
+      .mode("append")
       .parquet(args("output_file_path"))
   }
 
