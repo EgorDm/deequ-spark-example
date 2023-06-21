@@ -1,7 +1,7 @@
 # Data Quality Testing with Deequ in Spark
 
 The sample repository shows how to use Deequ to perform data quality testing in Spark.
-This repository is referenced in the blog post [Data Quality Testing with Deequ in Spark](#todo).
+This repository is referenced in the blog post [Data Quality Testing with Deequ in Spark](https://www.luminis.eu/blog/data-quality-testing-with-deequ-in-spark/).
 
 ## Setup
 
